@@ -1,1 +1,1 @@
-# Simple exemple of a flask web app
+# Simple example of a flask web app
